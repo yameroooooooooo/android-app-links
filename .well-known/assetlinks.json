@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.example.fmt_auth_mongodb",
+        "sha256_cert_fingerprints": [
+          "5e:4c:bc:47:11:88:cb:d4:4d:9f:39:28:ac:bc:a8:58:73:dd:3b:01:96:44:29:cf:5e:04:55:85:cd:ec:0f:b8"
+        ]
+      }
+    }
+  ]
